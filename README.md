@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Useful Commands
+
+### Run Tests
+`bin/rspec`
